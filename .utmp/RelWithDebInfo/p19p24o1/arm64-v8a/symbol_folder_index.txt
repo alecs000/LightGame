@@ -1,0 +1,1 @@
+C:\Users\alecs\Documents\GitHub\LightGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\p19p24o1\obj\arm64-v8a
